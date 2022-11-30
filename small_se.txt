@@ -1,0 +1,355 @@
+hypermagnesemia
+retinopathy of prematurity
+alkalosis
+rupture of spleen
+Gastrointestinal Obstruction
+pelvic infection
+laryngeal neoplasia
+prostatism
+wandering atrial pacemaker
+collagenvascular disease
+phaeochromocytoma
+fat embolism
+delirium tremens
+pregnancy induced hypertension
+uterine infection
+phobia
+Rectal Tenesmus
+psychosomatic disease
+retinal degeneration
+traumatic arthropathy
+meningeal irritation
+Salmonella
+renal abscess
+gastric dilatation
+nasal septal perforation
+Polio
+radiation pneumonitis
+menometrorrhagia
+macroglossia
+flashbacks
+keratoacanthomas
+milia
+dermoid cyst
+tetralogy of Fallot
+hepatitis B surface antigen positive
+Onycholysis
+mixed connective tissue disease
+limb malformation
+meningocele
+tonsillar hypertrophy
+acanthosis nigricans
+Muscle Rupture
+bone sarcoma
+neuroblastoma
+mediastinal tumor
+color blindness
+glioma
+acute otitis media
+adenomyosis
+rheumatic heart disease
+vitiligo
+cerebral palsy
+spider angioma
+encephalopathy hypertensive
+retinal scar
+periostitis
+cerebellar ataxia
+Lacrimal Disorder
+Prinzmetal variant angina
+acquired immune deficiency syndrome
+ectopic pregnancies
+Papilloma
+retinopathy hypertensive
+tinea
+pilonidal cyst
+cystic acne
+body tinea
+familial adenomatous polyposis
+coccidioidomycosis
+Neuromuscular Disorder
+Pneumocystis carinii infection
+Keloid scar
+colon polypectomy
+tetany
+gallbladder polyp
+peritoneal adhesions
+Corneal dystrophy
+albuminuria
+neoplasm prostate
+alveolar proteinosis
+Bone marrow fibrosis
+Rheumatic fever
+fibroadenoma of breast
+food allergy
+urethritis
+ovulation pain
+nasal septum disorder
+jaundice neonatal
+cleft lip
+gallbladder perforation
+Rhinitis Seasonal
+JRA
+hydrocele
+iritis
+chalazion
+arterial insufficiency
+musculoskeletal deformity
+vascular anomaly
+Fatty stools
+priapism
+Whiplash Injury
+neuroma
+thyroiditis
+rectal discharge
+Herpes ophthalmic
+thyroid cyst
+Endometrial Atrophy
+hypopituitarism
+bladder atony
+Benign Neoplasm
+retinal vein thrombosis
+kidney neoplasm
+diarrhea infectious
+motion sickness
+hypoaldosteronism
+hyperchloremia
+eye redness
+chondrocalcinosis pyrophosphate
+agnosia
+hypervitaminosis
+Porphyria
+intussusception
+amaurosis fugax
+leukoplakia of mouth
+gestational diabetes
+xanthoma
+Penile pain
+spinal cord injury
+esophageal rupture
+heat stroke
+hypersplenism
+conjunctivitis viral
+alcohol abuse
+eustachian tube obstruction
+Peyronies Disease
+global amnesia
+papillary necrosis
+dacrocystitis
+avascular necrosis
+Salivary Gland Calculus
+Cholangitis sclerosing
+ophthalmoplegia
+osteochondrosis
+epiglottitis
+Breast abscess
+Neurosis
+foreign body in eye
+myoma
+Erythema nodosum
+hypertrichosis
+tuberculin test positive
+brachial plexus injury
+mental retardation
+Salpingitis
+disorders of lipid metabolism
+febrile convulsion
+melanosis
+regurgitation
+gallbladder cancer
+lymphangitis
+Morphea
+hemothorax
+periarteritis nodosa
+bacterial endocarditis
+Penile swelling
+Pterygium
+pigmentary retinopathy
+Post thrombotic syndrome
+Diphtheria
+Endometrial hyperplasia
+biliary cirrhosis
+premature separation of placenta
+episcleritis
+Astrocytoma
+trisomy 21
+heat rash
+reflex sympathetic dystrophy
+adrenal carcinoma
+Legionella
+pyloric stenosis
+pemphigus
+Endometrial cancer
+polycystic ovary disease
+trichomoniasis
+Retroperitoneal fibrosis
+Lice Infestation
+Bladder Neoplasm
+tinea versicolor
+cleft palate
+hypomenorrhea
+Polymenorrhea
+lagophthalmos
+prolactinoma
+Endometritis
+anal pruritus
+abortion missed
+osteoma
+peripheral nerve injury
+PMs
+myoclonic epilepsy
+Oligomenorrhea
+lactose intolerance
+retinitis
+giardiasis
+ankylosing spondylitis
+refraction disorder
+angle closure glaucoma
+breast neoplasm
+acute glomerulonephritis
+Viral rash NOS
+gastric stasis
+iridocyclitis
+acute febrile neutrophilic dermatosis
+osteopetrosis
+thyroid cancer
+chronic active hepatitis
+thyroidectomy
+bulimia
+arteritis
+ichthyosis
+Corneal clouding
+cryptorchidism
+depigmentation
+vulvovaginitis
+orchitis
+carcinoid tumour
+Leriche syndrome
+renal cancer
+ocular hypertension
+Lymphatic Disorders
+hepatitis C antibody positive
+Tympanic membrane disorder
+tonsillectomy
+Essential Thrombocythemia
+adenoid hypertrophy
+cervical polyp
+varicocele
+dandruff
+vulval abscess
+ectropion
+syphilis
+alcoholic cirrhosis
+Vaginal prolapse
+vaginal dysplasia
+bone neoplasm
+Bicuspid Aortic Valve
+carcinoma
+parapsoriasis
+pityriasis
+Intertrigo
+anogenital warts
+salivary gland enlargement
+dyslexia
+esophageal perforation
+dermatophytosis
+pneumonectomy
+Dermatitis diaper
+hypercalcinuria
+thyroid adenoma
+eclampsia
+toxoplasmosis
+exploratory laparotomy
+amblyopia
+Cryptosporidiosis
+infestation
+hyperamylasaemia
+bacterial conjunctivitis
+high risk pregnancy
+leukoplakia
+constrictive pericarditis
+molluscum contagiosum
+cavernous sinus thrombosis
+Seasonal Affective Disorder
+brachial neuritis
+Cystic Fibrosis
+tinea cruris
+dwarfism
+chondrodystrophy
+hemoglobinuria
+vascular headache
+hypoparathyroidism
+entropion
+transurethral resection of the prostate
+faecal impaction
+decreased lacrimation
+hematospermia
+trifascicular block
+meibomianitis
+Pertussis
+Osteogenesis Imperfecta
+scleritis
+renovascular hypertension
+acute intermittent porphyria
+oral neoplasm
+IgA nephropathy
+ephelides
+testicular atrophy
+vitamin B deficiency
+HIV positive
+vulvitis
+mast cell disease
+pyogenic granuloma
+Haemophilia
+rhabdomyosarcoma
+choriocarcinoma
+Oily Skin
+encopresis
+Tinea Capitis
+hypospadias
+eosinophilic pneumonia acute
+infertility
+genital herpes
+orchiectomy
+cataplexy
+CYSTO
+familial hypercholesterolemia
+tetanus
+parasitic infection intestinal
+hemophilia B
+allergic bronchitis
+gonorrhea
+Myringitis
+otosclerosis
+erythremia
+Masculinization
+penile discharge
+hypochondriasis
+renal agenesis
+Typhoid
+chorioretinitis
+breast malformation
+neurofibromatosis
+rickets
+supernumerary nipple
+skin abrasion
+cervical stenosis
+urogenital abnormalities
+traumatic amputation
+sexually transmitted diseases
+Herxheimer reaction
+Vasomotor Rhinitis
+corneal degeneration
+corticosteroid therapy
+Acromegaly
+anthrax
+septic abortion
+anovulatory
+bladder diverticulum
+Rubella
+splinter
+hypogonadotropic hypogonadism
+chloasma
+estrogen replacement
+rabies
+
